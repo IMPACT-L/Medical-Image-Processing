@@ -1,4 +1,4 @@
-# Medical Image Processing — ELEC 444 / ELEC 6661 (2026)
+# Medical Image Processing — ELEC 444 / ELEC 6661 
 
 Student-facing repository for **Medical Image Processing** at **Concordia University**.
 
